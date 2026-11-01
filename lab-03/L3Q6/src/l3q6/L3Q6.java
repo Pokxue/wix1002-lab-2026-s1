@@ -30,6 +30,6 @@ Scanner keyboard = new Scanner(System.in);
             System.out.println("The point is inside the circle.");
         } else {
             System.out.println("The point is outside the circle.");
-            }
+        }
     }
 }
